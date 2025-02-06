@@ -3,8 +3,8 @@ export const features = [
     id: "0",
     icon: "/images/feature-1.png",
     caption: "Easy integration",
-    title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    title: "Lorem ipsum, dolor sit amet",
+    text: "Lorem ipsum dolor sit amet, adipiscing elit Lorem ipsum dolor sit amet,. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet., Adipiscing elit.",
     button: {
       icon: "/images/magictouch.svg",
       title: "Watch the demo",
@@ -13,13 +13,37 @@ export const features = [
   {
     id: "1",
     icon: "/images/feature-2.png",
-    caption: "Secure & trustworthy",
-    title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
+    caption: "Easy integration",
+    title: "Lorem ipsum, dolor sit amet",
+    text: "Lorem ipsum dolor sit amet, adipiscing elit Lorem ipsum dolor sit amet,. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet., Adipiscing elit.",
     button: {
       icon: "/images/docs.svg",
       title: "Read the docs",
     },
+    
+  },
+  {
+    id: "1",
+    icon: "/images/feature-2.png",
+    caption: "Easy integration",
+    title: "Lorem ipsum, dolor sit amet",
+    text: "Lorem ipsum dolor sit amet, adipiscing elit Lorem ipsum dolor sit amet,. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet., Adipiscing elit.",
+    button: {
+      icon: "/images/docs.svg",
+      title: "Read the docs",
+    },
+    
+  }, {
+    id: "1",
+    icon: "/images/feature-2.png",
+    caption: "Easy integration",
+    title: "Lorem ipsum, dolor sit amet",
+    text: "Lorem ipsum dolor sit amet, adipiscing elit Lorem ipsum dolor sit amet,. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet., Adipiscing elit.",
+      button: {
+      icon: "/images/docs.svg",
+      title: "Read the docs",
+    },
+    
   },
 ];
 
@@ -49,63 +73,63 @@ export const details = [
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "Lorem ipsum dolor sit amet ?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Lorem ipsum! Not only can you adjust your settings at any moment, but you also receive added perks ensuring optimal value for your current plan.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "Lorem ipsum dolor sit amet ?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Lorem ipsum! Not only can you adjust your settings at any moment, but you also receive added perks ensuring optimal value for your current plan.",
   },
   {
     id: "2",
-    question: "How often do you add new content?",
+    question: "Lorem ipsum dolor sit amet ?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Lorem ipsum! Not only can you adjust your settings at any moment, but you also receive added perks ensuring optimal value for your current plan.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "Lorem ipsum dolor sit amet ?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Lorem ipsum! Not only can you adjust your settings at any moment, but you also receive added perks ensuring optimal value for your current plan.",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "Lorem ipsum dolor sit amet ?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Lorem ipsum! Not only can you adjust your settings at any moment, but you also receive added perks ensuring optimal value for your current plan.",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "Lorem ipsum dolor sit amet ?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Lorem ipsum! Not only can you adjust your settings at any moment, but you also receive added perks ensuring optimal value for your current plan.",
   },
   {
     id: "6",
-    question: "Can I upgrade my plan?",
+    question: "Lorem ipsum dolor sit amet ?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Lorem ipsum! Not only can you adjust your settings at any moment, but you also receive added perks ensuring optimal value for your current plan.",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "Lorem ipsum dolor sit amet ?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Lorem ipsum! Not only can you adjust your settings at any moment, but you also receive added perks ensuring optimal value for your current plan.",
   },
   {
     id: "8",
-    question: "Do you offer training for individuals and teams?",
+    question: "Lorem ipsum dolor sit amet ?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Lorem ipsum! Not only can you adjust your settings at any moment, but you also receive added perks ensuring optimal value for your current plan.",
   },
   {
     id: "9",
-    question: "I’m locked out of my account what do I do?",
+    question: "Lorem ipsum dolor sit amet ?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Lorem ipsum! Not only can you adjust your settings at any moment, but you also receive added perks ensuring optimal value for your current plan.",
   },
 ];
 
